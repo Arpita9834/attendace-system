@@ -1,0 +1,18 @@
+body {
+    font-family: Arial;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.login-box {
+    border: 1px solid #ccc;
+    padding: 20px;
+    width: 250px;
+    margin: auto;
+}
+
+input {
+    display: block;
+    margin: 10px auto;
+    padding: 8px;
+}
